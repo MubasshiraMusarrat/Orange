@@ -1,0 +1,13 @@
+organ_name, deg(0.25)_size, correlation(g0.15)_size, intersection_size
+adipose_subcutaneous,11801,4912,3030
+adrenal_gland,3045,1461,931
+artery_aorta,11933,4903,4344
+artery_coronary,1874,2303,371
+brain_cerebellum,1542,243,128
+brain_cortex,4608,682,547
+heart_atrial_appendage,3804,1813,1106
+liver,2997,701,194
+lung,13186,3058,2913
+nerve_tibial,10428,5091,3416
+pituitary,1223,199,108
+skin_sun_exposed_lower_leg,6368,2374,1356
