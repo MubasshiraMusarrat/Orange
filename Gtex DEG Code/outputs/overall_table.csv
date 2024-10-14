@@ -1,13 +1,13 @@
-organ_name, deg(0.25)_size, correlation(g0.15)_size, intersection_size, deg_size_after_correlation
-adipose_subcutaneous,11801,4912,3030,1864
-adrenal_gland,3045,1461,931,208
-artery_aorta,11933,4903,4344,1970
-artery_coronary,1874,2303,371,138
-brain_cerebellum,1542,243,128,16
-brain_cortex,4608,682,547,24
-heart_atrial_appendage,3804,1813,1106,164
-liver,2997,701,194,61
-lung,13186,3058,2913,1053
-nerve_tibial,10428,5091,3416,1811
-pituitary,1223,199,108,56
-skin_sun_exposed_lower_leg,6368,2374,1356,817
+organ_name, deg(0.25)_size, correlation(g0.15)_size, intersection_with_cor(g0.15)_size, deg_size_after_cor(g0.15),correlation(g0.2)_size, intersection_with_cor(g0.2)_size, deg_size_after_cor(g0.2)
+adipose_subcutaneous,11801,4912,3030,1865,1634,1172,627
+adrenal_gland,3045,1461,931,209,293,265,52
+artery_aorta,11933,4903,4344,1971,2271,2175,1203
+artery_coronary,1874,2303,371,139,416,158,56
+brain_cerebellum,1542,243,128,17,58,47,5
+brain_cortex,4608,682,547,25,156,146,10
+heart_atrial_appendage,3804,1813,1106,165,208,197,50
+liver,2997,701,194,62,99,58,25
+lung,13186,3058,2913,1054,996,994,425
+nerve_tibial,10428,5091,3416,1812,2279,1744,1011
+pituitary,1223,199,108,57,15,10,5
+skin_sun_exposed_lower_leg,6368,2374,1356,818,372,277,164
